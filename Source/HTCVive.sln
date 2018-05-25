@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTCVive", "Assembly-CSharp.csproj", "{CFC56CCF-23A6-F3CB-0B04-E772231E9397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTCVive", "Assembly-CSharp-Editor.csproj", "{CC4F3C8F-380D-BB97-AE34-9C59AB67D077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC56CCF-23A6-F3CB-0B04-E772231E9397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC56CCF-23A6-F3CB-0B04-E772231E9397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC56CCF-23A6-F3CB-0B04-E772231E9397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC56CCF-23A6-F3CB-0B04-E772231E9397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4F3C8F-380D-BB97-AE34-9C59AB67D077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4F3C8F-380D-BB97-AE34-9C59AB67D077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4F3C8F-380D-BB97-AE34-9C59AB67D077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4F3C8F-380D-BB97-AE34-9C59AB67D077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

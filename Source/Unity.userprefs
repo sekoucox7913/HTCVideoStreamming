@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SocketIO\Scripts\SocketIO\SocketIOComponent.cs">
+    <Files>
+      <File FileName="Assets\AVProVideo\Scripts\Editor\MediaPlayerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\SocketIO\Scripts\Test\TestSocketIO.cs" Line="48" Column="70" />
+      <File FileName="Assets\SocketIO\Scripts\Test\UdpSocket.cs" Line="29" Column="2" />
+      <File FileName="Assets\VRTK\Examples\ExampleResources\Scripts\VRTK_ControllerEvents_ListenerExample.cs" Line="1" Column="1" />
+      <File FileName="Assets\SocketIO\Scripts\SocketIO\SocketIOComponent.cs" Line="47" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
